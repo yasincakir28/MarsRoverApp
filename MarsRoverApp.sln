@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverApp", "MarsRoverApp\MarsRoverApp.csproj", "{19D56B76-722E-4474-968E-418D14B85948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D56B76-722E-4474-968E-418D14B85948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D56B76-722E-4474-968E-418D14B85948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D56B76-722E-4474-968E-418D14B85948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D56B76-722E-4474-968E-418D14B85948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D912AD4-FE93-4BD6-8AE7-D967EEB43056}
+	EndGlobalSection
+EndGlobal
